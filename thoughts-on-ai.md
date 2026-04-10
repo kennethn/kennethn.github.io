@@ -6,7 +6,6 @@ title: "Thoughts on AI"
 permalink: /thoughts-on-ai/
 ---
 
-
 _Version 1.1_
 
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
@@ -70,6 +69,16 @@ That means LLMs are helpful tools for professionals, but they’re not good at _
 ## AI is really bad for the climate
 
 These models require a lot of data centers, which require a lot of machines, which require a lot of GPUs, which require a lot of electricity and water ([*MIT*](https://news.mit.edu/2025/explained-generative-ai-environmental-impact-0117)). Many of these data centers are built in poor communities. Despite the industry’s posturing, much of that energy is not renewable. When I was at Google, the company had a pledge to operate carbon-free by the year 2030. In 2025, they quietly and shamelessly deleted that pledge from their website. Last week they announced a new data center that will be powered by entirely by natural gas (_[Wired](https://www.wired.com/story/a-new-google-funded-data-center-will-be-powered-by-a-massive-gas-plant/)_).
+
+## The economy is propped up by AI
+
+A huge percentage of the economy is now dependent on AI. Tech giants represent about 30% of the S&P 500 index. The Federal Reserve Bank estimates that, “the AI categories contributed 0.97 percentage points to real GDP growth in the first three quarters of 2025 (0.90 percentage points, excluding data centers, for which data were not available in 2000), higher than the 0.81 percentage points in 2000. Through the third quarter of 2025, these categories made up 39% (36% excluding data centers) of total GDP growth versus 28% in 2000.” ([Source](https://www.stlouisfed.org/on-the-economy/2026/jan/tracking-ai-contribution-gdp-growth)) Which means the current AI bubble is more of our economy today than the dot-com bubble was in 2000.
+
+I see a lot of signs that are worrisome and remind me of the dot-com days. Many of these companies are all invested in each other. For example, NVIDIA has pledged to invest up to $100B in OpenAI. Which OpenAI turns around and uses to buy chips from NVIDIA. Softbank invested $40B in OpenAI. Money it borrowed. It’s easy to see how if OpenAI’s valuation collapses (which it is beginning to), other pieces of the AI industry will collapse around it. This is just one of many examples of these circular investment dependency loops.
+
+The amount of data centers being built is mind-boggling. Some of the numbers are impossible. Some of the math just doesn’t add up, and it’s hard to see how these data centers can even be built at the scale being promised. AI skeptic Ed Zitron estimates that half of the data centers will never be built ([source](https://futurism.com/science-energy/data-centers-construction-supply)).
+
+The AI bubble will pop, it’s only a matter of time. I can’t predict when, but it will. I’ve heard this music before.
 
 ## What about Artificial General Intelligence (AGI)
 
