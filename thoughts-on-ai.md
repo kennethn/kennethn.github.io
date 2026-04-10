@@ -4,10 +4,6 @@ layout: post
 title: "Thoughts on AI"
 
 permalink: /thoughts-on-ai/
-
-author:
-
-name: Ken Norton
 ---
 
 # Thoughts on AI
@@ -18,7 +14,7 @@ The proponents of AI, who intend to profit from its adoption, encourage such a w
 
 For the purposes of this article, I’ll narrow the scope of “AI” to mean **large-language models (LLMs), generative AI, and the pursuit of artificial general intelligence (AGI)**, the primary frontiers of AI development and debate
 
- **What are my qualifications?** I spent almost a decade working on large-scale machine learning and deep learning systems at Google. We did some early work with transformers (the primary architecture behind LLMs) but found them poorly suited for our tasks, so my experience with them was limited. I left Google before LLMs really took off, but I have a decent understand of the computer science behind them. I also am deeply familiar with the inner workings of Google, venture capital, and Silicon Valley, and in particular many of the personalities who seek to profit from AI.
+**What are my qualifications?** I spent almost a decade working on large-scale machine learning and deep learning systems at Google. We did some early work with transformers (the primary architecture behind LLMs) but found them poorly suited for our tasks, so my experience with them was limited. I left Google before LLMs really took off, but I have a decent understand of the computer science behind them. I also am deeply familiar with the inner workings of Google, venture capital, and Silicon Valley, and in particular many of the personalities who seek to profit from AI.
 
 **Notice that everyone is convinced AI will replace tons of jobs, but nobody believes it will replace _their_ job?** I’m less afraid of AI stealing jobs than I am of AI billionaires stealing my country.
 
