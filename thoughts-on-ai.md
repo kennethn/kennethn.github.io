@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: "Thoughts on AI"
 permalink: /thoughts-on-ai/
+author:
+  name: Ken Norton
 ---
 
 # Thoughts on AI

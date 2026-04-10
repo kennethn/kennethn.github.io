@@ -1,7 +1,12 @@
 ---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
 ---
 
-$body-font: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-$body-font-size: 16px;
+$sans-serif-font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 
-@import "{{ site.theme }}";
+$base-font-size: 18px;
+
+@charset "utf-8";
+
+@import "so-simple";
