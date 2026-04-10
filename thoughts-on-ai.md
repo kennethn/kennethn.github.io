@@ -6,18 +6,19 @@ title: "Thoughts on AI"
 permalink: /thoughts-on-ai/
 ---
 
-
 _Version 1.1_
 
-**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine
+**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
-The proponents of AI, who intend to profit from its adoption, encourage such a wide-ranging definition. They then weaponize this definition to deflect legitimate criticism. “If you’re opposed to AI, that means you’re opposed to \[using machine learning to research cancer drugs, etc.\]”
+The proponents of AI, who intend to profit from its adoption, encourage such a wide-ranging definition. They then weaponize this definition to deflect legitimate criticism. “If you’re opposed to AI, that means you’re opposed to using machine learning to research cancer drugs!”
 
-For the purposes of this article, I’ll narrow the scope of “AI” to mean **large-language models (LLMs), generative AI, and the pursuit of artificial general intelligence (AGI)**, the primary frontiers of AI development and debate
+For the purposes of this article, I’ll narrow the scope of “AI” to mean **large-language models (LLMs), generative AI, and the pursuit of artificial general intelligence (AGI),** the primary frontiers of AI development and debate.
 
 **What are my qualifications?** I spent almost a decade working on large-scale machine learning and deep learning systems at Google. We did some early work with transformers (the primary architecture behind LLMs) but found them poorly suited for our tasks, so my experience with them was limited. I left Google before LLMs really took off, but I have a decent understanding of the computer science behind them. I also am deeply familiar with the inner workings of Google, venture capital, and Silicon Valley, and in particular many of the personalities who seek to profit from AI.
 
-**Notice that everyone is convinced AI will replace tons of jobs, but nobody believes it will replace _their_ job?** I’m less afraid of AI stealing jobs than I am of AI billionaires stealing my country.
+**Notice that everyone is convinced AI will replace tons of jobs, but nobody believes it will replace _their_ job?** I was recently watching CNBC where a smug finance anchor was excitedly listing several jobs he considered “replaceable.” I was thinking, if there’s anybody whose job is replaceable, it’s a talking head who reads a bunch of live stock quotes and updates viewers on the Dow Jones several times a day. That technology has existed for more than decade.
+
+**In any case, I’m less afraid of AI stealing jobs than I am of AI billionaires stealing my country.**
 
 ## Don’t trust the Billionaires
 
@@ -25,7 +26,7 @@ The billionaires forcing AI down our throats: Elon Musk, Sam Altman, Mark Zucker
 
 **Billionaires should not exist.** When you make your first dollar over $100M you receive a certificate that says "Congratulations, You Won Capitalism!" and the government takes 90% of every dollar you earn henceforth, progressing to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That’s way more money than any human ever needs. The alternative is a guillotine, so I predict the billionaires will choose wisely.
 
-## What are LLMs and are they useful?
+## What are LLMs and are they at all useful?
 
 **LLMs are glorified auto-complete machines.** This is a bit of an oversimplification, but that is pretty much what they are. They are trained to string together words that produce outputs that closely match the outputs that a human most expected from an input. They are not “thinking,” they are pattern-matching.
 
@@ -49,7 +50,7 @@ That means LLMs are helpful tools for professionals, but they’re not good at _
 
 **A heavy reliance on LLMs can erode our critical thinking skills.** Studies have shown that people who relied on ChatGPT had reduced brain engagement and “consistently underperformed at neural, linguistic, and behavioral levels” ([reference](https://time.com/7295195/ai-chatgpt-google-learning-school/)). This is a complicated subject. Has my use of a calculator allowed my long division skills to atrophy since high school? Most certainly. What about my use of an automated spellchecker in my word-processing software, or autocorrect on my iPhone (incidentally, both of which rely on artificial intelligence)? There are benefits to cognitive ease when that cognitive load can be shifted to critical thinking. I love saving time using a calculator because I can shift that energy to spending mental energy solving a more difficult problem that needs my critical thinking. But when we shift _all_ of our critical thinking to LLMs, we risk becoming dependent on them and losing our critical thinking skills altogether. This is especially concerning in education where children and young adults are still developing these skills in the first place. (Going back to my calculator example: calculators existed when I was in high school, but I wasn’t allowed to use them _until_ I’d demonstrated my long division knowledge.) I don’t have all of the answers here, but it’s an important area to watch closely and debate. If I were to summarize my TL;DR, it would be **THINK FIRST, PROMPT SECOND.**
 
-## Don’t be evil
+## Don’t be evil (remember that?)
 
 **The biggest AI companies, Open AI, xAI, Google, Anthropic, Palantir, etc. all have massive contracts with ICE and the Pentagon and their AI software is used in killing machines.** During the Iran War, for example, Anthropic’s software was blamed for the deaths of over 100 girls when an elementary school was struck. Whether this software is 100% to blame or not, this software is deeply embedded in America’s military apparatus. Palantir boasts of their AI software being used to identify undocumented migrants to assist ICE in their deportation efforts. This is what you support when you buy these tool or work at these companies. (I am a signatory, along with more than 2000 current and former tech employees, of the [ICE Out pledge](https://iceout.tech/), urging the tech industry to cancel all contracts with ICE.)
 
