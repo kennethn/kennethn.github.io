@@ -1,8 +1,6 @@
 ---
-layout: post
-
+layout: page
 title: "Thoughts on AI"
-
 permalink: /thoughts-on-ai/
 ---
 
