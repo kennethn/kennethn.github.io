@@ -5,6 +5,8 @@ title: "Thoughts on AI"
 
 permalink: /thoughts-on-ai/
 ---
+
+
 _Version 1.1_
 
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine
@@ -83,15 +85,11 @@ Here are a few things I recommend:
 
 **Be especially wary of the tech media.** They exist to prop up CEOs and venture capitalists, and they are glorified stenographers. Look out for what I like to call “CEO Said A Thing!” articles. Once you know what they are, you’ll see them everywhere. Here are just a couple of examples I find in two minutes of searching:
 
-	- “Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics” _[Fortune](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)_
-
-	- “Sam Altman Says AI Will Soon Cause Widespread Job Loss. His Solution Is ‘Robot Taxes’ and Wealth Sharing.” _[Entrepreneur]_(<https://www.entrepreneur.com/business-news/sam-altman-says-ai-will-soon-cause-widespread-job-loss>)
-
-	- “Nvidia’s Huang Urges Companies to Put AI Breakthroughs Before Profit” _[Bloomberg](https://www.bloomberg.com/news/newsletters/2026-04-10/nvidia-s-huang-urges-companies-to-put-ai-breakthroughs-before-profit)_
-
-	- That last one is especially funny. If the CEO of RJ Reynolds urged parents to put cigarette adoption ahead of their children’s health, wouldn’t a reporter think, “hey, wait a minute, maybe he’s got an ulterior motive?” If you need further evidence for why journalists shouldn’t just report whatever a CEO says without doing, well, you know, some _reporting_, have some fun reading [all of the things "Elon Musk said" over the years that never came true](https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk).
-
-	- BTW, there are some good tech publications. I especially like [The Verge](https://www.theverge.com/) and [Wired](https://www.wired.com). Both have fine journalists, report skeptically on the industry, and speak truth to power on the Trump Administration as well.
+- “Elon Musk says that in 10 to 20 years, work will be optional and money will be irrelevant thanks to AI and robotics” _[Fortune](https://fortune.com/2026/01/19/when-does-elon-musk-say-work-will-be-optional-and-money-will-be-irrelevant-ai-robotics/)_
+- “Sam Altman Says AI Will Soon Cause Widespread Job Loss. His Solution Is ‘Robot Taxes’ and Wealth Sharing.” _[Entrepreneur]_(<https://www.entrepreneur.com/business-news/sam-altman-says-ai-will-soon-cause-widespread-job-loss>)
+- “Nvidia’s Huang Urges Companies to Put AI Breakthroughs Before Profit” _[Bloomberg](https://www.bloomberg.com/news/newsletters/2026-04-10/nvidia-s-huang-urges-companies-to-put-ai-breakthroughs-before-profit)_
+- That last one is especially funny. If the CEO of RJ Reynolds urged parents to put cigarette adoption ahead of their children’s health, wouldn’t a reporter think, “hey, wait a minute, maybe he’s got an ulterior motive?” If you need further evidence for why journalists shouldn’t just report whatever a CEO says without doing, well, you know, some _reporting_, have some fun reading [all of the things "Elon Musk said" over the years that never came true](https://en.wikipedia.org/wiki/List_of_predictions_for_autonomous_Tesla_vehicles_by_Elon_Musk).
+- BTW, there are some good tech publications. I especially like [The Verge](https://www.theverge.com/) and [Wired](https://www.wired.com). Both have fine journalists, report skeptically on the industry, and speak truth to power on the Trump Administration as well.
 
 **Think about which companies you support.** There is no ethical consumption under capitalism, and we all do the best we can. Personally, I no longer use Google Search. I’ve replaced it with [Kagi Search](https://kagi.com/), an excellent paid search engine that is ad free and values privacy. However, I still use GMail and Google Calendar. I find Anthropic to be the least evil LLM company, so I use Claude. I would not describe them as the “most ethical” but they are far ahead of OpenAI and others in their transparency and principles. Several people I’ve worked with and admire work there. I would absolutely never support Elon Musk’s xAI even if you tortured me, and I would strongly recommend not supporting OpenAI either.
 
