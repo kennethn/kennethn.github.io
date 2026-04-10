@@ -6,8 +6,6 @@ title: "Thoughts on AI"
 permalink: /thoughts-on-ai/
 ---
 
-# Thoughts on AI
-
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine
 
 The proponents of AI, who intend to profit from its adoption, encourage such a wide-ranging definition. They then weaponize this definition to deflect legitimate criticism. “If you’re opposed to AI, that means you’re opposed to \[using machine learning to research cancer drugs, etc.\]”
