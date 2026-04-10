@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: post
+
 title: "Thoughts on AI"
+
 permalink: /thoughts-on-ai/
 ---
 
@@ -55,3 +57,5 @@ You can imagine that a chat-based LLM that is constantly buttering up its user, 
 **More concerning, there are numerous examples of troubled people using an LLM for advice or therapy and being driven to suicide.** These stories are horrifying, with ChatGPT basically turning into a “suicide coach.” ([Here's just one example](https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide).)
 
 **I personally know one person who appears to be suffering a ChatGPT-related mental-health crisis, and he’s not the only example of “LLM psychosis.”** In this particular example, ChatGPT seems to be imitating an online collaborative fiction universe called “SCP” but this person thinks he and ChatGPT together have unlocked some new recursive secret of the universe. It’s scary, but again, the type of thing that can happen when you’re in love with your own genius and you have a willing companion playing along that you believe is an artificial general intelligence and not just a fancy autocomplete flattery machine. (Here’s [an article about Geoff](https://futurism.com/openai-investor-chatgpt-mental-health), who by all indications is still suffering from this episode and appears to be also only be surrounded by humans of the yes-man variety.)
+
+![Made By A Human Person](/assets/images/made_by_a_human_person.png)
