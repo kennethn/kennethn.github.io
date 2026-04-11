@@ -5,7 +5,6 @@ title: "Thoughts on AI"
 
 permalink: /thoughts-on-ai/
 ---
-
 _Version 1.2_
 
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
@@ -95,6 +94,8 @@ Meanwhile, the autocomplete LLM keeps doing its racism, encouraging suicide idea
 ## What can I do?
 
 Here are a few things I recommend:
+
+**If you use LLMs, carefully monitor the output.** Double-check all external references and citations. If you’re vibe coding, perform careful code reviews and write tests. If an LLM summarizes something for you, do your own quality control. Always ensure there’s a human in the loop. These tools can be helpful, but never fully trust them.
 
 **Be skeptical of claims,** especially breathless predictions about the future. Predicting the future is really hard, and anybody that’s confident they know what will happen is immediately untrustworthy.
 
