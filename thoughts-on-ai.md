@@ -73,7 +73,8 @@ Microsoft pitches its AI, Copilot, as a serious productivity tool. It promotes i
 **Do you know who _does_ like AI art slop? The Fascists.** Yes, AI generated art slop is proving to be a popular tool of MAGA, with everyone from the official White House Twitter account to Trump himself adopting it. Yet another reason to steer clear.
 
 <figure style="width: 300px" class="img-fluid align-center">
-  <a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!">
+  <a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!"></a>
+  <figcaption>Poster by Phineas X. Jones</figcaption>
 </figure> 
 
 **Because LLMs are trained to string text together in patterns that most match what a user wants to hear, they are prone to sycophancy.** Certain models in particular are very bad at this. You can imagine that a chat-based LLM that is constantly buttering up its user, always agreeing with them, and telling them they are a genius might cause a lot of problems. If you already think you’re a genius and every thought you have is right, that might be a particular petri dish of problems. Who does that describe? Oh yeah, tech CEOs. [Here's a good video about that](https://www.youtube.com/watch?v=Q6nem-F8AG8).
