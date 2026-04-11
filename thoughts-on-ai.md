@@ -5,6 +5,7 @@ title: "Thoughts on AI"
 
 permalink: /thoughts-on-ai/
 ---
+
 _Version 1.2_
 
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
@@ -63,7 +64,7 @@ That means LLMs are helpful tools for professionals, but they’re not good at _
 
 **More concerning, there are numerous examples of troubled people using an LLM for advice or therapy and being driven to suicide.** These stories are horrifying, with ChatGPT basically turning into a “suicide coach.” ([Here's just one example](https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide).)
 
-**I personally know one person who appears to be suffering a ChatGPT-related mental-health crisis, and he’s not the only example of “LLM psychosis.”** In this particular example, ChatGPT seems to be imitating an online collaborative fiction universe called “SCP” but this person thinks he and ChatGPT together have unlocked some new recursive secret of the universe. It’s scary, but again, the type of thing that can happen when you’re in love with your own genius and you have a willing companion playing along that you believe is an artificial general intelligence and not just a fancy autocomplete flattery machine. (Here’s [an article about Geoff](https://futurism.com/openai-investor-chatgpt-mental-health), who by all indications is still suffering from this episode and appears to be also only be surrounded by humans of the yes-man variety.)
+**I personally know multiple people who appear to be suffering ChatGPT-related mental-health crisises, or “LLM psychosis.”** In one particular example, ChatGPT seems to be imitating an online collaborative fiction game called “SCP” but this person thinks he and ChatGPT together have unlocked some new recursive secret of the universe. It’s scary, but again, the type of thing that can happen when you’re in love with your own genius and you have a willing companion playing along that you believe is an artificial general intelligence and not just a fancy autocomplete flattery machine. (Here’s [an article about the person in question](https://futurism.com/openai-investor-chatgpt-mental-health), who by all indications is still suffering from this episode and appears to be also only be surrounded by humans of the yes-man variety.)
 
 ## AI is really bad for the climate
 
