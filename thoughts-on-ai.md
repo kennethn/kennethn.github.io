@@ -26,7 +26,7 @@ For the purposes of this article, I’ll narrow the scope of “AI” to mean **
 
 The billionaires forcing AI down our throats: Elon Musk, Sam Altman, Mark Zuckerberg, Marc Andreessen, David Sacks, Alex Karp, Sergey Brin, and Jensen Huang, to name but a few, were quick to kiss the ring and support Donald Trump and MAGA. They are authoritarian, self-interested, narcissistic, and many of them believe in scientific racism. To support their companies and buy their products is to endorse all of these causes.
 
-**Billionaires should not exist.** When you make your first dollar over $100M you should receive a certificate that says "Congratulations, You Won Capitalism!" and the government takes 90% of every dollar you earn henceforth, progressing to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That’s way more money than any human ever needs. The alternative is a guillotine, so I predict the billionaires will choose wisely.
+**Billionaires should not exist.** When you make your first dollar over $100M you should receive a certificate that says "Congratulations, You Won Capitalism!" and the government takes 90% of every dollar you earn henceforth, progressing to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That’s way more money than any human ever needs. Judging from history, the alternative is a guillotine, so I predict the billionaires will choose wisely.
 
 <figure class="img-fluid align-center">
   <img src="{{ '/assets/images/tech-titans.jpg' | absolute_url }}" alt="Tech Titans Attend Trump's Inauguration"></a>
