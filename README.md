@@ -1,1 +1,1 @@
-# kennethn.github.io
+# words.kennorton.com
