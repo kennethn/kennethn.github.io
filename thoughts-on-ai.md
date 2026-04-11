@@ -92,6 +92,8 @@ I don’t believe AGI is imminent, not anywhere in the near term. Certainly not 
 
 But Silicon Valley loves to sniff its own farts about AGI, and the media loves to report on it. Because it’s both exciting and scary. Some billionaires (like Elon Musk) predict the machines will take over and kill us, Terminator style. Others, like Sam Altman, say no way, these are benevolent tools that will make our lives comfortable and vibrant.
 
+Don’t believe the credulous articles that developers have had to [consult spiritual leaders](https://www.washingtonpost.com/technology/2026/04/11/anthropic-christians-claude-morals/), that “[AGI has already been achieved](https://fortune.com/2026/03/30/agi-definition-jensen-huang-lex-fridman-deepmind-turing-text-cognitive-taxonomy/),” that “[AI has emotions](https://time.com/7379564/ai-emotional-intelligence-support-bots/)” or other such nonsense. And don’t be afraid of the news every six months or so that there’s a new AI model that’s “[too dangerous to be released](https://thehill.com/policy/technology/5824219-anthropic-new-ai-dangerous-public/).” That’s pure marketing hype.
+
 Meanwhile, the autocomplete LLM keeps doing its racism, encouraging suicide ideation in teenagers, driving adults to psychosis, targeting elementary schools in Iran, and lining the pockets of billionaires who keep installing Donald Trump in the White House. So forget about AGI.
 
 ## What can I do?
