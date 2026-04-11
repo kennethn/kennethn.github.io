@@ -24,7 +24,7 @@ For the purposes of this article, I’ll narrow the scope of “AI” to mean **
 
 ## Don’t trust the Billionaires
 
-<figure style="width: 250px" class="img-fluid align-right">
+<figure style="width: 300px" class="img-fluid align-right">
   <img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!">
   <figcaption>Poster by Phineas X. Jones</figcaption>
 </figure> 
