@@ -23,7 +23,7 @@ For the purposes of this article, I’ll narrow the scope of “AI” to mean **
 **In any case, I’m less afraid of AI stealing jobs than I am of AI billionaires stealing my country.**
 
 <figure style="width: 300px" class="img-fluid align-center">
-  <img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!">
+  <a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!"></a>
   <figcaption>Poster by Phineas X. Jones</figcaption>
 </figure> 
 
