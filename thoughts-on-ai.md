@@ -3,6 +3,8 @@ layout: post
 
 title: "Thoughts on AI"
 
+author: kennethn
+
 permalink: /thoughts-on-ai/
 ---
 

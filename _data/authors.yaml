@@ -1,0 +1,10 @@
+kennethn:
+  name: Ken Norton
+  picture: /assets/images/kennethn.png
+  links:
+    - title: Bluesky
+      url: https://bsky.app/profile/kennorton.com
+      icon: fab fa-bluesky-square
+    - title: GitHub
+      url: https://github.com/kennethn
+      icon: fab fa-github-square
