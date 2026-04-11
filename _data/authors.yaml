@@ -4,7 +4,7 @@ kennethn:
   links:
     - title: Bluesky
       url: https://bsky.app/profile/kennorton.com
-      icon: fa-brands fa-square-bluesky
+      icon: fa-brands fa-bluesky
     - title: GitHub
       url: https://github.com/kennethn
-      icon: fa-brands fa-square-github
+      icon: fa-brands fa-github
