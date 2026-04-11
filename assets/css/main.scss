@@ -13,3 +13,7 @@ $max-font-size: 20px;
 @charset "utf-8";
 
 @import "so-simple";
+
+.small {
+  font-size: 90% !important;
+}
