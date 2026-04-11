@@ -22,12 +22,12 @@ For the purposes of this article, I’ll narrow the scope of “AI” to mean **
 
 **In any case, I’m less afraid of AI stealing jobs than I am of AI billionaires stealing my country.**
 
-## Don’t trust the Billionaires
-
-<figure style="width: 300px" class="img-fluid align-right">
+<figure style="width: 300px" class="img-fluid align-center">
   <img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!">
   <figcaption>Poster by Phineas X. Jones</figcaption>
 </figure> 
+
+## Don’t trust the Billionaires
 
 The billionaires forcing AI down our throats: Elon Musk, Sam Altman, Mark Zuckerberg, Marc Andreessen, David Sacks, Alex Karp, Sergey Brin, and Jensen Huang, to name but a few, were quick to kiss the ring and support Donald Trump and MAGA. They are authoritarian, self-interested, narcissistic, and many of them believe in scientific racism. To support their companies and buy their products is to endorse all of these causes.
 
