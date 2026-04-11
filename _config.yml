@@ -6,7 +6,7 @@ description:
 
 google_fonts:
   - name: "Public Sans"
-    weights: "200,400i,700,700i"
+    weights: "500,500i,700,700i"
 
 author:
   name: Ken Norton
