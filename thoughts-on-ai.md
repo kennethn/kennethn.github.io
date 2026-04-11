@@ -22,16 +22,16 @@ For the purposes of this article, I’ll narrow the scope of “AI” to mean **
 
 **In any case, I’m less afraid of AI stealing jobs than I am of AI billionaires stealing my country.**
 
-<figure style="width: 300px" class="img-fluid align-center">
-  <a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!"></a>
-  <figcaption>Poster by Phineas X. Jones</figcaption>
-</figure> 
-
 ## Don’t trust the Billionaires
 
 The billionaires forcing AI down our throats: Elon Musk, Sam Altman, Mark Zuckerberg, Marc Andreessen, David Sacks, Alex Karp, Sergey Brin, and Jensen Huang, to name but a few, were quick to kiss the ring and support Donald Trump and MAGA. They are authoritarian, self-interested, narcissistic, and many of them believe in scientific racism. To support their companies and buy their products is to endorse all of these causes.
 
 **Billionaires should not exist.** When you make your first dollar over $100M you should receive a certificate that says "Congratulations, You Won Capitalism!" and the government takes 90% of every dollar you earn henceforth, progressing to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That’s way more money than any human ever needs. The alternative is a guillotine, so I predict the billionaires will choose wisely.
+
+<figure class="img-fluid align-center">
+  <img src="{{ '/assets/images/tech-titans.jpg' | absolute_url }}" alt="Tech Titans Attend Trump's Inauguration"></a>
+  <figcaption>Poster by Phineas X. Jones</figcaption>
+</figure> 
 
 ## What are LLMs and are they at all useful?
 
@@ -72,6 +72,11 @@ Microsoft pitches its AI, Copilot, as a serious productivity tool. It promotes i
 **Publishing houses, newspapers, and studios are eager to replace journalists and creators with AI, and working writers and artists are already feeling the pinch.** AI writing and art is soulless and silly, with a lack of originality. At best it’s a mere imitation of human work. Fortunately, the backlash in the creative world is significant, especially in vibrant communities such as sci-fi, fantasy, tabletop gaming, and animation. Several publishers have been forced to apologize and retract releases, and more and more are taking [“AI-free” stances](https://www.bbc.com/news/articles/cj0d6el50ppo). I have responded by refusing to put my money anywhere that uses AI-generated content or art, and I support a number of individual artists and creators on Patreon and YouTube. I also support unions who represent workers in these industries, such as the Writers Guild of America, the Screen Actors Guild, and unions that represent journalists such as the ProPublica Guild.
 
 **Do you know who _does_ like AI art slop? The Fascists.** Yes, AI generated art slop is proving to be a popular tool of MAGA, with everyone from the official White House Twitter account to Trump himself adopting it. Yet another reason to steer clear.
+
+<figure style="width: 300px" class="img-fluid align-center">
+  <a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!"></a>
+  <figcaption>Poster by Phineas X. Jones</figcaption>
+</figure> 
 
 **Because LLMs are trained to string text together in patterns that most match what a user wants to hear, they are prone to sycophancy.** Certain models in particular are very bad at this. You can imagine that a chat-based LLM that is constantly buttering up its user, always agreeing with them, and telling them they are a genius might cause a lot of problems. If you already think you’re a genius and every thought you have is right, that might be a particular petri dish of problems. Who does that describe? Oh yeah, tech CEOs. [Here's a good video about that](https://www.youtube.com/watch?v=Q6nem-F8AG8).
 
