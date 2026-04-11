@@ -8,7 +8,7 @@ author: kennethn
 permalink: /thoughts-on-ai/
 ---
 
-_Version 1.3_
+_Version 1.5_
 
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
