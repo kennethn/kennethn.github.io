@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: words.kennorton.com
 description: 
-site.logo: /assets/images/kennethn-logo.png
+logo: /assets/images/kennethn-logo.png
 
 google_fonts:
   - name: "Public Sans"
