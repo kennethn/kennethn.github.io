@@ -29,8 +29,10 @@ The billionaires forcing AI down our throats: Elon Musk, Sam Altman, Mark Zucker
 **Billionaires should not exist.** When you make your first dollar over $100M you should receive a certificate that says "Congratulations, You Won Capitalism!" and the government takes 90% of every dollar you earn henceforth, progressing to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That’s way more money than any human ever needs. Judging from history, the alternative is a guillotine, so I predict the billionaires will choose wisely.
 
 <figure class="img-fluid align-center">
-  <img src="{{ '/assets/images/tech-titans.jpg' | absolute_url }}" alt="Tech Titans Attend Trump's Inauguration">
-</figure> 
+
+<img src="{{ '/assets/images/tech-titans.jpg' | absolute_url }}" alt="Tech Titans Attend Trump's Inauguration">
+
+</figure>
 
 ## What are LLMs and are they at all useful?
 
@@ -57,8 +59,10 @@ Microsoft pitches its AI, Copilot, as a serious productivity tool. It promotes i
 **Another big problem with LLMs is that since they are trained on human data, they are prone to human bias. That means LLMs have issues with racial, gender, gender-identity, and cultural discrimination built in.** As institutions increasingly rely on AI to make decisions, we now have covert large language models reinforcing stereotypes, often deep under the surface where humans aren’t in the loop. Worse yet, these models are often marketed and sold as a mechanism for _reducing_ human bias. “Hey, humans are biased so use this AI which will remove all human bias!” It’s diabolical.
 
 <figure class="img-fluid align-center">
-  <a href="{{ '/assets/images/pew_research.png' | absolute_url }}"><img src="{{ '/assets/images/pew_research.png' | absolute_url }}" alt="About half say Al will worsen people's ability to think creatively and form meaningful relationships"></a>
-</figure> 
+
+<a href="{{ '/assets/images/pew_research.png' | absolute_url }}"><img src="{{ '/assets/images/pew_research.png' | absolute_url }}" alt="About half say Al will worsen people's ability to think creatively and form meaningful relationships"></a>
+
+</figure>
 
 **A heavy reliance on LLMs can erode our critical thinking skills.** Studies have shown that people who relied on ChatGPT had reduced brain engagement and “consistently underperformed at neural, linguistic, and behavioral levels” ([reference](https://time.com/7295195/ai-chatgpt-google-learning-school/)). This is a complicated subject. Has my use of a calculator allowed my long division skills to atrophy since high school? Most certainly. What about my use of an automated spellchecker in my word-processing software, or autocorrect on my iPhone (incidentally, both of which rely on artificial intelligence)? There are benefits to cognitive ease when that cognitive load can be shifted to critical thinking. I love saving time using a calculator because I can shift that energy to spending mental energy solving a more difficult problem that needs my critical thinking. But when we shift _all_ of our critical thinking to LLMs, we risk becoming dependent on them and losing our critical thinking skills altogether. This is especially concerning in education where children and young adults are still developing these skills in the first place. (Going back to my calculator example: calculators existed when I was in high school, but I wasn’t allowed to use them _until_ I’d demonstrated my long division knowledge.) I don’t have all of the answers here, but it’s an important area to watch closely and debate. If I were to summarize my TL;DR, it would be **THINK FIRST, PROMPT SECOND.**
 
@@ -73,9 +77,12 @@ Microsoft pitches its AI, Copilot, as a serious productivity tool. It promotes i
 **Do you know who _does_ like AI art slop? The Fascists.** Yes, AI generated art slop is proving to be a popular tool of MAGA, with everyone from the official White House Twitter account to Trump himself adopting it. Yet another reason to steer clear.
 
 <figure style="width: 300px" class="img-fluid align-center">
-  <a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!"></a>
-  <figcaption>Poster by Phineas X. Jones</figcaption>
-</figure> 
+
+<a href="https://www.inprnt.com/gallery/phineas/prompting-with-hitler/"><img src="{{ '/assets/images/prompting_with_hitler.png' | absolute_url }}" alt="Using Generative AI You're Prompting With Hitler!"></a>
+
+<figcaption>Poster by Phineas X. Jones</figcaption>
+
+</figure>
 
 **Because LLMs are trained to string text together in patterns that most match what a user wants to hear, they are prone to sycophancy.** Certain models in particular are very bad at this. You can imagine that a chat-based LLM that is constantly buttering up its user, always agreeing with them, and telling them they are a genius might cause a lot of problems. If you already think you’re a genius and every thought you have is right, that might be a particular petri dish of problems. Who does that describe? Oh yeah, tech CEOs. [Here's a good video about that](https://www.youtube.com/watch?v=Q6nem-F8AG8).
 
@@ -96,9 +103,12 @@ Tech giants represent about 30% of the S&P 500 index. The Federal Reserve Bank e
 I see a lot of signs that are worrisome and remind me of the dot-com days. Many of these companies are all invested in each other. For example, NVIDIA has pledged to invest up to $100B in OpenAI. Which OpenAI turns around and uses to buy chips from NVIDIA. Softbank invested $40B in OpenAI. Money it borrowed. It’s easy to see how if OpenAI’s valuation collapses (which it is beginning to), other pieces of the AI industry will collapse around it. This is just one of many examples of these circular investment dependency loops.
 
 <figure style="width: 300px" class="img-fluid align-center">
-  <a href="{{ '/assets/images/nvidia-open-money-machine.png' | absolute_url }}"><img src="{{ '/assets/images/nvidia-open-money-machine.png' | absolute_url }}" alt="How Nvidia and OpenAI Fuel the AI Money Machine"></a>
-  <figcaption>Chart of the financial relationships between AI companies (Bloomberg)</figcaption>
-</figure> 
+
+<a href="{{ '/assets/images/nvidia-open-money-machine.png' | absolute_url }}"><img src="{{ '/assets/images/nvidia-open-money-machine.png' | absolute_url }}" alt="How Nvidia and OpenAI Fuel the AI Money Machine"></a>
+
+<figcaption>Chart of the financial relationships between AI companies (Bloomberg)</figcaption>
+
+</figure>
 
 The amount of data centers being built is mind-boggling. Some of the numbers are impossible. Some of the math just doesn’t add up, and it’s hard to see how these data centers can even be built at the scale being promised. AI skeptic Ed Zitron estimates that half of the data centers will never be built ([source](https://futurism.com/science-energy/data-centers-construction-supply)).
 
@@ -133,9 +143,12 @@ Here are a few things I recommend:
 - BTW, there _are_ some good tech publications. I especially like [The Verge](https://www.theverge.com/), [Techdirt](https://www.techdirt.com/), and [Wired](https://www.wired.com). They have fine journalists, report objectively, and speak truth to power about the Trump Administration as well. They really piss off guys like Elon Musk and Marc Andreessen, so you know they must be doing real journalism.
 
 <figure style="width: 300px" class="img-fluid align-center">
-  <img src="{{ '/assets/images/elon-musk-mars-2024.png' | absolute_url }}" alt="Elon Musk Says We're Going to Mars by 2024">
-  <figcaption>Elon Musk said this thing in 2016!</figcaption>
-</figure> 
+
+<img src="{{ '/assets/images/elon-musk-mars-2024.png' | absolute_url }}" alt="Elon Musk Says We're Going to Mars by 2024">
+
+<figcaption>Elon Musk said this thing in 2016!</figcaption>
+
+</figure>
 
 **Think about which companies you support.** There is no ethical consumption under capitalism, and we all do the best we can. Personally, I no longer use Google Search. Primarily because the AI features have made Google really, really bad. I’ve replaced it with [Kagi Search](https://kagi.com/), an excellent paid search engine that is AI-free, ad-free, and values privacy. However, I still use Gmail and Google Calendar. I find Anthropic to be the least evil LLM company, so I use Claude. I would not, however, describe them as the “most ethical.” On the ethical grading scale, they’re probably a C\- when everyone else is an F or a D. But they are far ahead of OpenAI and others in their transparency and principles. Several people I’ve worked with and admire are there. I would absolutely never support Elon Musk’s xAI if you tortured me, and I would strongly recommend not supporting OpenAI either.
 
