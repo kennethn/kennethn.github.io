@@ -95,7 +95,7 @@ Tech giants represent about 30% of the S&P 500 index. The Federal Reserve Bank e
 
 I see a lot of signs that are worrisome and remind me of the dot-com days. Many of these companies are all invested in each other. For example, NVIDIA has pledged to invest up to $100B in OpenAI. Which OpenAI turns around and uses to buy chips from NVIDIA. Softbank invested $40B in OpenAI. Money it borrowed. It’s easy to see how if OpenAI’s valuation collapses (which it is beginning to), other pieces of the AI industry will collapse around it. This is just one of many examples of these circular investment dependency loops.
 
-<figure style="width: 500px" class="img-fluid align-center">
+<figure style="width: 300px" class="img-fluid align-center">
   <a href="{{ '/assets/images/nvidia-open-money-machine.png' | absolute_url }}"><img src="{{ '/assets/images/nvidia-open-money-machine.png' | absolute_url }}" alt="How Nvidia and OpenAI Fuel the AI Money Machine"></a>
   <figcaption>Chart of the financial relationships between AI companies (Bloomberg)</figcaption>
 </figure> 
