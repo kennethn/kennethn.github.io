@@ -1,10 +1,7 @@
 ---
 layout: post
-
 title: "Thoughts on AI"
-
 author: kennethn
-
 permalink: /thoughts-on-ai/
 ---
 
@@ -12,9 +9,9 @@ _Version 1.5_
 
 **“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
-The proponents of AI, who intend to profit from its adoption, encourage such a wide-ranging definition. They then weaponize this definition to deflect legitimate criticism. “If you’re opposed to AI, that means you’re opposed to using machine learning to research cancer drugs!”
+The proponents of AI, who intend to profit from its adoption, encourage such a wide-ranging definition. They then weaponize this definition to deflect legitimate criticism. “If you’re opposed to AI, that means you’re opposed to using machine learning to research cancer drugs!” Artificial intelligence technologies have led to incredible breakthroughs in astronomy, genomics, language, computer vision, medicine, agriculture, and the list goes on. In fact, it’s hard to think of an area of our life that has not been touched by computer technology that can be classified as “artificial intelligence.”
 
-For the purposes of this article, I’ll narrow the scope of “AI” to mean **large-language models (LLMs), generative AI, and the pursuit of artificial general intelligence (AGI),** the primary frontiers of AI development and debate.
+For the purposes of this article, I’ll narrow the scope of “AI” to mean **large-language models (LLMs), generative AI, and the pursuit of artificial general intelligence (AGI),** the primary frontiers of AI development, hype, and debate.
 
 **What are my qualifications?** In my fourteen years at Google, I spent almost a decade working on large-scale machine learning and deep learning systems. We did some early work with transformers (the primary architecture behind LLMs) but found them poorly suited for our specific tasks, so my experience with them was limited. I left Google before LLMs really took off, but I have a decent understanding of the computer science behind them. I also am deeply familiar with the inner workings of Google, venture capital, and Silicon Valley, and in particular many of the personalities who seek to profit from AI.
 
