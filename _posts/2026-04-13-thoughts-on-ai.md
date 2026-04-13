@@ -3,7 +3,6 @@ layout: post
 title: "Thoughts on AI"
 author: kennethn
 permalink: /thoughts-on-ai/
-last_modified_at: 2026-04-13
 ---
 
 _Version 1.7_
