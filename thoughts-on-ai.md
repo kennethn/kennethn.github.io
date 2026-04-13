@@ -8,7 +8,7 @@ date: 2026-04-13
 
 _Version 1.7_
 
-**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition, recommendation algorithms, and machine learning, technologies that have already proven useful in industries from consumer software to medicine.
+**Artificial Intelligence, or “AI,” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition, recommendation algorithms, and machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
 The people pushing AI, who also stand to profit most from it, encourage this vague, expansive definition. Then they can weaponize it to deflect legitimate criticism: if you question any use of AI, suddenly you’re against legitimate uses of traditional AI that have proven benefits and are embedded in everyday life, such as using AI to develop cancer drugs. Traditional artificial intelligence technologies have led to incredible breakthroughs in astronomy, genomics, language, computer vision, medicine, agriculture, and the list goes on. In fact, it’s hard to think of an area of our life that has not been touched by computer technology that can be classified as “artificial intelligence.”
 
