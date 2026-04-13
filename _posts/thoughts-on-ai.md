@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "Thoughts on AI"
 author: kennethn
 permalink: /thoughts-on-ai/
