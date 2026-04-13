@@ -3,6 +3,7 @@ layout: simple-page
 title: "Thoughts on AI"
 author: kennethn
 permalink: /thoughts-on-ai/
+date: 2026-04-13
 ---
 
 _Version 1.7_
