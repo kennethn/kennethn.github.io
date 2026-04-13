@@ -8,11 +8,11 @@ date: 2026-04-13
 
 _Version 1.7_
 
-**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
+**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition, recommendation algorithms, and machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
-The people pushing AI, who also stand to profit most from it, encourage this vague, expansive definition. Then they can weaponize it to deflect legitimate criticism: if you question any use of AI, suddenly you’re against legitimate uses of technology that have proven benefits, such as machine learning to develop cancer drugs. Artificial intelligence technologies have led to incredible breakthroughs in astronomy, genomics, language, computer vision, medicine, agriculture, and the list goes on. In fact, it’s hard to think of an area of our life that has not been touched by computer technology that can be classified as “artificial intelligence.”
+The people pushing AI, who also stand to profit most from it, encourage this vague, expansive definition. Then they can weaponize it to deflect legitimate criticism: if you question any use of AI, suddenly you’re against legitimate uses of traditional AI that have proven benefits and are embedded in everyday life, such as using AI to develop cancer drugs. Traditional artificial intelligence technologies have led to incredible breakthroughs in astronomy, genomics, language, computer vision, medicine, agriculture, and the list goes on. In fact, it’s hard to think of an area of our life that has not been touched by computer technology that can be classified as “artificial intelligence.”
 
-For this article, I’m using “AI” to refer specifically to **large-language models (LLMs), generative AI, and the pursuit of artificial general intelligence (AGI),** the primary frontiers of AI development and debate today.
+For this article, I’m using “AI” to refer specifically to **large-language models (LLMs), generative AI, agentic AI, and the pursuit of artificial general intelligence (AGI),** the primary frontiers of AI development and debate today.
 
 **What are my qualifications?** I spent fourteen years at Google, nearly a decade of that working on large-scale machine learning and deep learning systems. We did some early work with transformers (the core architecture behind LLMs), but found them poorly suited to our specific problems, so my hands-on experience with them was limited. I left Google before LLMs really exploded, but I have a solid grasp of the underlying computer science, and I have used them extensively in the years since. I also know Google, venture capital, and Silicon Valley from the inside, and many of the personalities who seek to profit from AI.
 
