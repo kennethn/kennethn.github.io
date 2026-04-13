@@ -3,11 +3,12 @@ layout: post
 title: "Thoughts on AI"
 author: kennethn
 permalink: /thoughts-on-ai/
+last_modified_at: 2026-04-13
 ---
 
 _Version 1.7_
 
-**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.**
+**“AI” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition to machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
 The people pushing AI, who also stand to profit most from it, encourage this vague, expansive definition. Then they can weaponize it to deflect legitimate criticism: if you question any use of AI, suddenly you’re against legitimate uses of technology that have proven benefits, such as machine learning to develop cancer drugs. Artificial intelligence technologies have led to incredible breakthroughs in astronomy, genomics, language, computer vision, medicine, agriculture, and the list goes on. In fact, it’s hard to think of an area of our life that has not been touched by computer technology that can be classified as “artificial intelligence.”
 
