@@ -106,7 +106,7 @@ I’ve responded by refusing to put my money into any platform that uses AI-gene
 
 </figure>
 
-AI-generated photographs and videos are massive sources of misinformation. I would bet money that each of us has seen an AI-generated video or photograph within just the last week that we thought was real. Governments and malicious actors are taking advantage of these tools to create deepfakes to manipulate minds, generate cynicism, and obscure the truth. 
+AI-generated photographs, audio, and videos are massive sources of misinformation. I would bet money that each of us has seen an AI-generated video or image within just the last week that we thought was real. Governments and malicious actors are taking advantage of these tools to create deepfakes to manipulate minds, generate cynicism, and obscure the truth. 
 
 AI image generators are used to create sexualized content to harass and exploit women and children. Elon Musk’s evil Grok chatbot on X was designed to do just that, allowing users to undress everyone from [Taylor Swift to average users](https://www.bbc.com/news/articles/cgk2lzmm22eo).
 
