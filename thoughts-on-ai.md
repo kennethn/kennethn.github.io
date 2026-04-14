@@ -60,7 +60,7 @@ The ouroboros of AI slop is a real problem that will get exponentially worse wit
 
 <figure class="img-fluid align-center">
 
-<img src="{{ '/assets/images/ai-vs-human-content.png' | absolute_url }}" alt="AI-generated content vs. human content chart">
+<a href="{{ '/assets/images/ai-vs-human-content.png' | absolute_url }}"><img src="{{ '/assets/images/ai-vs-human-content.png' | absolute_url }}" alt="AI-generated content vs. human content chart"></a>
 
 </figure>
 
