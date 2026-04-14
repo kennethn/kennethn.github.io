@@ -56,7 +56,13 @@ Microsoft pitches its AI, Copilot, as a serious productivity tool. It promotes i
 
 **This is really bad, and it’s already resulted in a lot of real-world impacts.** There are several examples of lawyers filing court pleadings that reference non-existent cases ([here are some examples](https://news.bloomberglaw.com/legal-ops-and-tech/ai-faked-cases-become-core-issue-irritating-overworked-judges)). Or scientific papers referencing other papers that never existed ([here's an article in _Nature_ about that](https://www.nature.com/articles/d41586-026-00969-z)). And the nightmare gets worse when you realize that this slop ends up on the internet, gets sucked in by LLMs, and is _used as training data_. Over time, LLMs can’t distinguish between what is true and what was shat out or hallucinated by other LLMs.
 
-The ouroboros of AI slop is a real problem that will get exponentially worse with widespread LLM adoption. A [recent study estimates that 50% of the internet is now AI slop](https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop). Eat up, piggy.
+The ouroboros of AI slop is a real problem that will get exponentially worse with widespread LLM adoption. A [recent study estimates that more than 50% of the internet is now AI slop](https://futurism.com/artificial-intelligence/over-50-percent-internet-ai-slop). Eat up, piggy.
+
+<figure class="img-fluid align-center">
+
+<img src="{{ '/assets/images/ai-vs-human-content.png' | absolute_url }}" alt="AI-generated content vs. human content chart">
+
+</figure>
 
 **Another big problem with LLMs is that since they are trained on human data, they are prone to human bias. That means LLMs have racial, gender, gender identity, and cultural discrimination baked in.** As institutions increasingly rely on AI to make decisions, we now have hidden large language models reinforcing stereotypes, often deep under the surface where humans aren’t in the loop. Worse yet, these models are often marketed and sold as mechanisms for _reducing_ human bias. “Hey, humans are biased, so use this AI, which will remove all human bias!” It’s diabolical.
 
