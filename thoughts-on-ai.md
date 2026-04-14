@@ -172,7 +172,11 @@ Here are a few things I recommend:
 
 **If you use LLMs, carefully monitor the output.** Double-check all external references and citations. If you’re vibe coding, do careful code reviews and write tests. If an LLM summarizes something for you, do your own quality control. Always ensure there’s a human in the loop. These tools can be helpful, but never fully trust them.
 
+**Carefully monitor your child’s use of AI chatbots.** Much like social media, children need to learn the dangers of AI chatbots. I would strongly recommend not allowing your child to use a chatbot until they are mature enough to understand how it works. Even then, I would discourage children from using it unsupervised. Help children understand that an LLM can’t think or feel. Help them understand the difference between humans and chatbots, and talk to them about the dangers of the internet, social media, and AI.
+
 **Be skeptical of claims,** especially breathless predictions. Predicting the future is really hard, and anybody who’s confident they know what will happen is immediately untrustworthy.
+
+**Don’t let people scare you into adopting AI.** AI companies have the burden of proving to you that their products have utility. If their products are so good at solving problems, you’ll want to use them. Nobody had to scare consumers into buying smartphones, we wanted them because it was obvious they were useful. Steve Jobs went on stage and gave a demo of the iPhone and people salivated and lined up around the block. He didn’t have to threaten us to “get on board or be left behind.” Yet that’s how AI evangelists sound. They screech about how we’d better hurry up and gain AI skills, but then are vague about what problems these tools are solving for regular people today. The burden of proof is on them. Don’t let fear, uncertainty, and doubt (FUD) get to you.
 
 **Be especially wary of the tech and finance media.** They exist to prop up CEOs and venture capitalists, and are often glorified stenographers. Look out for what I like to call “CEO Said A Thing!” articles. Once you know what they are, you’ll see them everywhere. For example:
 
