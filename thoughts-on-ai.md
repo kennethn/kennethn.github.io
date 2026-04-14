@@ -38,13 +38,13 @@ The billionaires forcing AI down our throats: guys like Elon Musk, Sam Altman, M
 
 LLMs are related technologies have real uses, but they’ve been absurdly over-hyped and aggressively pushed on us all, while very serious critiques have been waved away. Right now, given how much money and marketing are being invested in these technologies, I believe the dangers outweigh the benefits.
 
-**So what are LLMs actually good for?** They’re useful for highly structured, repetitive tasks, especially in technical, financial, and engineering contexts. Software development is a good example. Software code is abundant, structured, textual, deterministic, and most code contains self-annotating comments, which means means it is a rich source of semantic training data. 
+**So what are LLMs actually good for?** They’re useful for highly structured, repetitive tasks, especially in technical, financial, and engineering contexts. Software development is a good example. Software code is abundant, structured, textual, deterministic, and most code contains self-annotating comments, which means it is a rich source of semantic training data. 
 
-I can ask an LLM like Claude Code to take a pile of unstructured files and write code to ingest them, clean them up, build a database, design a nice dashboard, and let me run queries and views on the data. That’s just one of many valid use cases.
+I can ask an agentic LLM coding tool, like [Claude Code](https://code.claude.com/docs/en/overview), to take a pile of unstructured files and write code to ingest them, clean them up, build a database, design a nice dashboard, and let me run queries and views on the data. That’s just one of many valid use cases.
 
 The reason LLMs are good at this is that _humans_ have done these kinds of tasks countless times, so LLMs have plenty of examples in their training data. This is a crucial point: LLMs are only as good as the data they were trained on. That makes them pretty bad at true innovation because they can only do, tweak, or remix what they’ve seen. 
 
-So whenever you hear that LLMs are “inventing,” “discovering new science,” or delivering “breathtaking innovations,” you can safely call B.S. (Of course, there are all sorts of cool ways astronomers use AI to discover new stars, or drug researchers use AI to develop new therapeutics. But these are brilliant scientists using AI as a tool, not generative AIs making their own discoveries. Big difference.)
+So whenever you hear that LLMs are “inventing,” “discovering new science,” or delivering “breathtaking innovations,” you can safely call B.S. (Of course, there are all sorts of cool ways astronomers use AI to discover new stars, or drug researchers use AI to develop new therapeutics. But these are brilliant scientists using AI as a tool, not generative AIs making their own discoveries, and these examples are usually not LLMs. Big difference.)
 
 Even in their sweet spot, LLMs still make a lot of mistakes. In my experience, when you ask an LLM to write code, it requires a _lot_ of oversight. As an experienced programmer, I’m in a better position to spot when Claude Code makes silly errors or design choices that will cause maintainability problems later. Even then, many get through, and cleaning up these mistakes creates extra work for an expert human operator.
 
