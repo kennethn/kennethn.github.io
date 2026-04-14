@@ -106,6 +106,10 @@ I’ve responded by refusing to put my money into any platform that uses AI-gene
 
 </figure>
 
+AI-generated photographs and videos are massive sources of misinformation. I would bet money that each of us has seen an AI-generated video or photograph within just the last week that we thought was real. Governments and malicious actors are taking advantage of these tools to create deepfakes to manipulate minds, generate cynicism, and obscure the truth. 
+
+AI image generators are used to create sexualized content to harass and exploit women and children. Elon Musk’s evil Grok chatbot on X was designed to do just that, allowing users to undress everyone from [Taylor Swift to average users](https://www.bbc.com/news/articles/cgk2lzmm22eo).
+
 **Because LLMs are trained to string text together in patterns that most match what a user wants to hear, they are prone to sycophancy.** Certain models, in particular, are especially bad at this. You can imagine that a chat-based LLM that constantly flatters its user, always agrees with them, and tells them they are a genius might cause a lot of problems. If you _already_ think you’re a genius, that’s a particular petri dish of problems. Who does that describe? Oh yeah, tech CEOs. [Here's a good video about that](https://www.youtube.com/watch?v=Q6nem-F8AG8).
 
 **More concerning, there are numerous examples of troubled people using an LLM for advice or therapy and being driven to suicide.** These stories are horrifying, with ChatGPT basically turning into a “suicide coach” ([here's just one example](https://www.npr.org/sections/shots-health-news/2025/09/19/nx-s1-5545749/ai-chatbots-safety-openai-meta-characterai-teens-suicide)).
