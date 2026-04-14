@@ -6,7 +6,7 @@ permalink: /thoughts-on-ai/
 date: 2026-04-13
 ---
 
-_Version 1.7_
+_Version 1.8_
 
 **Artificial Intelligence, or “AI,” is a broad term, intentionally being used in a misleading way.** It can include anything from voice recognition, recommendation algorithms, and machine learning, technologies that have already proven useful in industries from consumer software to medicine.
 
