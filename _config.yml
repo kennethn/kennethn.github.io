@@ -6,7 +6,7 @@ description:
 logo: /assets/images/kennethn-logo.png
 
 google_fonts:
-  - name: "Public Sans"
+  - name: "Atkinson Hyperlegible Next"
     weights: "400,400i,700,700i"
 
 copyright: "Copyright &copy; 2026 Ken Norton. All rights reserved."
