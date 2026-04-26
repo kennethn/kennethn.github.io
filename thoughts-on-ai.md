@@ -24,7 +24,7 @@ For this article, I’m using “AI” to refer specifically to **large-language
 
 **Recognize that AI is a political project.** The billionaires forcing AI down our throats: guys like Elon Musk, Sam Altman, Mark Zuckerberg, and Marc Andreessen, to name but a few, were quick to kiss the ring and line up behind Donald Trump and MAGA. They are authoritarian, self-interested, narcissistic, and many of them believe in scientific racism. Supporting their companies and buying their products is effectively endorsing those values.
 
-**Billionaires should not exist.** When you earn your first dollar over $100M, you should receive a certificate that says “Congratulations, You Won Capitalism!” and the government takes 90% of every dollar from that point on, ramping up to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That is already far more money than any human will ever need. The alternative is a guillotine, so I predict the billionaires will choose wisely.
+**Billionaires should not exist.** When you earn your first dollar over $100M, you should receive a certificate that says “Congratulations, You Won Capitalism!” and the government takes 90% of every dollar from that point on, ramping up to 99% of every dollar earned over $300M, and 100% of every dollar over $500M. That is already far more money than any human will ever need. Historically, the alternative has been a guillotine, so I predict the billionaires will choose wisely.
 
 <figure class="img-fluid align-center">
 
