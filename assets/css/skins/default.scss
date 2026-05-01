@@ -8,20 +8,20 @@
 @import "so-simple/notices";
 
 /* Colors */
-$base-color: #100F0F;
-$text-color: #100F0F;
-$accent-color: #AF3029;
-$nav-color: #AF3029;
-$background-color: #FFFCF0;
-$nav-background-color: #1C1B1A;
+$base-color: #c6d0f5;
+$text-color: #c6d0f5;
+$accent-color: #f2d5cf;
+$nav-color: #f2d5cf;
+$background-color: #303446;
+$nav-background-color: #babbf1;
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 
-$primary-color: #AF3029;
-$success-color: #66800B;
-$warning-color: #AD8301;
-$danger-color: #BC5215;
-$info-color: #24837B;
+$primary-color: #eebebe;
+$success-color: #a6d189;
+$warning-color: #e5c890;
+$danger-color: #e78284;
+$info-color: #85c1dc;
 
 /* Syntax highlighting (base16) colors */
 $base00: #fafafa !default;
