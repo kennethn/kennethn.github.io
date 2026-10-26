@@ -1,9 +1,153 @@
-   <div id="osd" style="width:100vw;height:100vh"></div>
-   <script src="https://cdn.jsdelivr.net/npm/openseadragon@4/build/openseadragon/openseadragon.min.js"></script>
-   <script>
-   OpenSeadragon({
-     id: "osd",
-     prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@4/build/openseadragon/images/",
-     tileSources: "faerun.dzi"   // or an array of .dzi files for multiple maps
-   });
-   </script>
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Faerûn Atlas</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #111; font: 14px system-ui, sans-serif; }
+  #osd { position: absolute; inset: 0; }
+  #overlay { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; z-index: 5; }
+  #overlay line { stroke: #0000ff; stroke-width: 5; stroke-linecap: round; }
+  #overlay #halo { stroke: #fff; stroke-width: 9; stroke-linecap: round; }
+  #overlay circle { fill: #0000ff; stroke: #fff; stroke-width: 1.5; }
+  #overlay text { fill: #FFAC1C; font: 600 17px system-ui, sans-serif; paint-order: stroke; stroke: #000; stroke-width: 4px; }
+  #tools { position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 10;
+           display: flex; gap: 6px; align-items: center; }
+  #tools button { padding: 6px 12px; border: 1px solid #555; border-radius: 6px; background: #222; color: #eee; cursor: pointer; }
+  #tools button.on { background: #b03a2e; border-color: #b03a2e; }
+  #status { color: #eee; background: rgba(0,0,0,.65); padding: 6px 10px; border-radius: 6px; white-space: nowrap; }
+</style>
+</head>
+<body>
+<div id="osd"></div>
+<svg id="overlay">
+  <line id="halo" style="display:none"/>
+  <line id="ln" style="display:none"/>
+  <circle id="c1" r="5" style="display:none"/>
+  <circle id="c2" r="5" style="display:none"/>
+  <text id="lbl" text-anchor="middle" style="display:none"></text>
+</svg>
+<div id="tools">
+  <button id="measureBtn" title="Toggle distance ruler (M)">Measure Distance</button>
+  <!-- button id="calBtn" title="Drag across the map's scale bar">Calibrate</button -->
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/openseadragon@4.1/build/openseadragon/openseadragon.min.js"></script>
+<script>
+// ---- Config ---------------------------------------------------------------
+const DZI = "faerun.dzi";
+const PRESET_SCALE = { pxPerUnit: 12.33, unit: "miles" };
+// ---------------------------------------------------------------------------
+
+const viewer = OpenSeadragon({
+  id: "osd",
+  prefixUrl: "https://cdn.jsdelivr.net/npm/openseadragon@4.1/build/openseadragon/images/",
+  tileSources: DZI,
+  showNavigator: false,
+  imageLoaderLimit: 8,   // queue tiles in OSD instead of flooding the server
+  timeout: 120000        // ms; default is 30000
+});
+
+const KEY = "scale:" + DZI;
+let scale = PRESET_SCALE || load();
+let mode = null;            // null | "measure" | "calibrate"
+let start = null, end = null; // image-pixel coordinates
+
+function load() { try { return JSON.parse(localStorage.getItem(KEY)); } catch (e) { return null; } }
+function save(s) { try { localStorage.setItem(KEY, JSON.stringify(s)); } catch (e) {} }
+
+const $ = id => document.getElementById(id);
+const toImg = p => viewer.viewport.viewerElementToImageCoordinates(p);
+const toScreen = p => viewer.viewport.imageToViewerElementCoordinates(p);
+const pxDist = () => Math.hypot(end.x - start.x, end.y - start.y);
+
+function fmt(px) {
+  if (!scale) return Math.round(px) + " px (not calibrated)";
+  const d = px / scale.pxPerUnit;
+  return (d >= 100 ? Math.round(d) : d.toFixed(1)) + " " + scale.unit;
+}
+
+function setStatus() {
+  const s = scale ? `Scale: ${scale.pxPerUnit.toFixed(3)} px/${scale.unit}` : "Not calibrated";
+  $("status").textContent =
+    mode === "calibrate" ? "Drag across the map's scale bar" :
+    mode === "measure"   ? "Drag to measure · Esc to exit · " + s : s;
+}
+
+function setMode(m) {
+  mode = m;
+  $("measureBtn").classList.toggle("on", m === "measure");
+  $("calBtn").classList.toggle("on", m === "calibrate");
+  viewer.canvas.style.cursor = m ? "crosshair" : "";
+  if (!m) { start = end = null; draw(); }
+  setStatus();
+}
+
+function draw() {
+  const els = ["halo", "ln", "c1", "c2", "lbl"].map($);
+  if (!start || !end) { els.forEach(e => e.style.display = "none"); return; }
+  const a = toScreen(new OpenSeadragon.Point(start.x, start.y));
+  const b = toScreen(new OpenSeadragon.Point(end.x, end.y));
+  const [halo, ln, c1, c2, lbl] = els;
+  for (const l of [halo, ln]) {
+    l.setAttribute("x1", a.x); l.setAttribute("y1", a.y);
+    l.setAttribute("x2", b.x); l.setAttribute("y2", b.y);
+  }
+  c1.setAttribute("cx", a.x); c1.setAttribute("cy", a.y);
+  c2.setAttribute("cx", b.x); c2.setAttribute("cy", b.y);
+  lbl.setAttribute("x", (a.x + b.x) / 2);
+  lbl.setAttribute("y", (a.y + b.y) / 2 - 10);
+  lbl.textContent = mode === "calibrate" ? Math.round(pxDist()) + " px" : fmt(pxDist());
+  els.forEach(e => e.style.display = "");
+}
+
+function finishCalibration() {
+  const px = pxDist();
+  if (px < 5) return;
+  const ans = prompt("What distance does that line represent? (e.g. 100 miles)", "100 miles");
+  const m = ans && ans.trim().match(/^([\d.,]+)\s*(.*)$/);
+  if (m) {
+    const n = parseFloat(m[1].replace(/,/g, ""));
+    if (n > 0) {
+      scale = { pxPerUnit: px / n, unit: m[2].trim() || "miles" };
+      save(scale);
+    }
+  }
+  setMode("measure");
+}
+
+// Mouse / touch handling: in a tool mode, dragging draws instead of panning.
+viewer.addHandler("canvas-press", e => {
+  if (!mode) return;
+  start = end = toImg(e.position);
+  draw();
+});
+viewer.addHandler("canvas-drag", e => {
+  if (!mode || !start) return;
+  e.preventDefaultAction = true;
+  end = toImg(e.position);
+  draw();
+});
+viewer.addHandler("canvas-drag-end", e => { if (mode) e.preventDefaultAction = true; });
+viewer.addHandler("canvas-release", e => {
+  if (!mode || !start) return;
+  end = toImg(e.position);
+  draw();
+  if (mode === "calibrate") finishCalibration();
+});
+viewer.addHandler("canvas-click", e => { if (mode) e.preventDefaultAction = true; });
+viewer.addHandler("update-viewport", draw);
+
+$("measureBtn").onclick = () => setMode(mode === "measure" ? null : "measure");
+$("calBtn").onclick = () => { start = end = null; draw(); setMode(mode === "calibrate" ? null : "calibrate"); };
+
+window.addEventListener("keydown", e => {
+  if (e.key === "Escape") setMode(null);
+  else if ((e.key === "m" || e.key === "M") && !e.metaKey && !e.ctrlKey) setMode(mode === "measure" ? null : "measure");
+}, true);
+
+setStatus();
+</script>
+</body>
+</html>
